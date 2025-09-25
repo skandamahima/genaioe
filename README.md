@@ -1,2 +1,2 @@
-# genaioe
-Open elective project
+
+This project is an AI Voice and Image Assistant that allows users to interact via speech. Spoken input is transcribed using Whisper, processed by a simple rule-based chatbot, and the response is converted to speech using gTTS. Additionally, the assistant can generate images with Stable Diffusion Turbo if requested. It integrates LiveKit for real-time voice communication and provides a user-friendly Gradio interface to handle audio input, display chatbot responses, play voice replies, and show generated images.
